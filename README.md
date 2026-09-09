@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Sudip Bhalla |
+| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/sudip-bhalla-40521b380/?isSelfProfile=true) |
+| **Location** | Durgapur,India |
+| **Background** |SOC Analyst, Cloud+DevOps Engineeer |
+| **Goal** | Become a cyber Security analyst |
 
 ---
 
