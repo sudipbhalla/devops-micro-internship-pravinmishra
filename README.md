@@ -15,7 +15,7 @@
 | | |
 |---|---|
 | **Name** | Sudip Bhalla |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/sudip-bhalla-40521b380/?isSelfProfile=true) |
+| **LinkedIn** | [ Sudip Bhalla ](https://www.linkedin.com/in/sudip-bhalla-40521b380/?isSelfProfile=true) |
 | **Location** | Durgapur,India |
 | **Background** |SOC Analyst, Cloud+DevOps Engineeer |
 | **Goal** | Become a cyber Security analyst |
