@@ -34,7 +34,8 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+A networking protocol is a common set of rules and guidelines that controls how devices communicate and share data with each other. It works like a common language between computers, servers, and routers, helping them understand and exchange information properly even when they use different hardware, software, or manufacturers.
+
 
 ---
 
@@ -59,7 +60,8 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+EpicReads is an online bookstore hosted on a server in Finland, but users from different parts of the world can access it through the internet. When someone visits the website, the browser communicates with the server using HTTP/HTTPS protocols. HTTPS provides a secure connection by encrypting the information exchanged between the user and the server. Each device connected to the internet uses an IP address, which helps identify and locate the source and destination of network communication. The TCP/IP protocol suite manages the transfer of information. TCP helps ensure that data reaches its destination correctly and in the proper order, while IP determines the route for packets across different networks. The internet uses packet switching, dividing information into smaller packets that may travel through different routes and are reassembled at the destination.
+
 
 ---
 
@@ -102,18 +104,19 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML,CSS
+* React or Angular (Modern frontend frameworks)
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js
+
+* Python
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL
+* MongoDB
 
 ---
 
@@ -142,7 +145,8 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) is like the phonebook of the internet. It helps convert an easy-to-remember domain name, such as epicreads.com, into the IP address of the server where the website is hosted. In this case, an A record should be used because it connects a domain name to an IPv4 address. So, the A record can point epicreads.com to 52.172.142.222. This allows users to type the domain name instead of remembering the server’s IP address.
+
 
 ---
 
@@ -230,7 +234,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://www.linkedin.com/posts/sudip-bhalla-40521b380_dmi-devops-micro-internship-with-agentic-activity-7505515151391993856-OCIi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF4BNYUBkAldpXsIN4TAqTkoryo8S05tUFQ
 ```
 
 ---
@@ -239,7 +243,47 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+Starting My DevOps Journey!
+
+
+
+I’ve started learning DevOps through the DevOps Micro Internship (DMI) by Pravin Mishra, and I recently completed my first set of tasks focused on Internet & Networking.
+
+
+
+Here’s what I learned:
+
+
+
+🔹 ChatGPT – Learned how to use AI effectively for understanding technical concepts and improving my learning process.
+
+
+
+🌐 Internet & Networking – Understood the basics of networking, protocols, IP addresses, TCP/IP, and how devices communicate over the internet.
+
+
+
+🏗️ App Architecture – Learned the basic flow of how users, applications, servers, and databases work together.
+
+
+
+🔗 DNS – Understood how domain names are connected to IP addresses and how DNS helps users access websites using easy-to-remember names.
+
+
+
+💻 VS Code Setup – Set up my development environment and learned the basics of working with my project files and GitHub repository.
+
+
+
+This is just the beginning, and I’m excited to continue learning more about Linux, Git, Docker, CI/CD, Cloud, and other DevOps tools. 
+
+
+
+#DevOps #DevOpsJourney #LearningDevOps #Networking #DNS #GitHub #VSCode #TechLearning #DMI #PravinMishra
+
+
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://lnkd.in/dP2uwVNa · Start your DevOps journey: https://lnkd.in/dkqb39_A
 
 ---
 
@@ -247,19 +291,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+DNS
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+ App architecture drawing
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+i will improve myself and i will give my 100 percent for the DMI
 
 ---
 
