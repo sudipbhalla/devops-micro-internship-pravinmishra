@@ -33,7 +33,10 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I feel that true success is not only about having talent or working hard. It also depends on a person’s character, consistency, and the way they treat others. Achieving results is important, but I believe qualities like good communication, empathy, and honesty are what help a person maintain success in the long run.
+
+I have also learned that facing failures or setbacks does not always mean that we have chosen the wrong path. Sometimes, difficult experiences teach us valuable lessons, make us stronger, build our character, and prepare us for bigger responsibilities in the future. Because of this, I try to keep learning from my experiences, work on improving myself, and treat everyone with respect, even when things do not happen according to my expectations.
+
 
 ---
 
@@ -55,11 +58,12 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Clear communication prevents more problems than assumptions ever solve.
 
 ### Evidence from my life
 
-Add your answer here...
+During my time working as a Project Coordinator and Executive Virtual Assistant, I realized how important proactive communication is for successful teamwork. Regularly staying in touch with clients, team members, and other stakeholders helped projects progress efficiently and prevented unnecessary confusion. I also had a personal experience in an earlier role where a lack of proper communication resulted in my employment being terminated unexpectedly, without any prior conversation. This taught me an important lesson about the value of being open, clear, and timely when communicating, especially when working with others or taking on leadership responsibilities.
+
 
 ---
 
@@ -67,11 +71,12 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Consistency produces better long term results than occasional bursts of motivation.
 
 ### Evidence from my life
 
-Add your answer here...
+Managing my software engineering studies along with project management responsibilities and my own learning journey taught me an important lesson: small, consistent efforts matter more than waiting for motivation. I found that making progress every day, even if it was just a little, helped me move forward. Whether I was completing my coursework, improving my portfolio, or working toward certifications, staying consistent gradually built both my skills and my confidence. Even during challenging periods, continuing to put in the effort helped me see real improvement over time.
+
 
 ---
 
@@ -79,11 +84,13 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+I believe that every difficult experience has something to teach us. When I take time to understand what went wrong instead of reacting immediately, I can learn from it and make better decisions in the future.
+
 
 ### Evidence from my life
 
-Add your answer here...
+Losing a job that was important to me was a difficult experience, but instead of allowing it to make me negative, I took some time to think about what I could learn from it. It changed the way I look at leadership, feedback, and working with a team. Since then, I have understood the importance of being open in communication, making expectations clear from the beginning, and treating people with understanding and empathy. These lessons are something I want to carry with me throughout my professional career.
+
 
 ---
 
@@ -91,9 +98,9 @@ Add your answer here...
 
 ### Instructions
 
-Write as if a journalist is writing about you **3 to 7 years from now** (not 20 years).
+Write as if a journalist is writing about you 3 to 7 years from now (not 20 years).
 
-**Minimum 300 words.**
+Minimum 300 words.
 
 ### Rules
 
@@ -153,13 +160,35 @@ Hashtags:
 
 ## Your Article
 
-Add your answer here...
+### From Setbacks to Progress: Sudip Bhalla’s Journey into Technology and DevOps
+
+Four years ago, Sudip Bhalla made a decision that gradually changed the direction of his career. Instead of allowing challenges and setbacks to discourage him, he chose to focus on learning, discipline, and making consistent progress. That mindset became one of the strongest foundations of his professional journey.
+
+Today, Sudip is recognized as a Software Engineer and DevOps professional who combines technical knowledge with problem-solving, teamwork, and a continuous learning mindset. His journey from being a computer science student to building practical experience in software development and DevOps reflects his commitment to improving himself step by step.
+
+His career was not built through shortcuts. While completing his B.Tech in Computer Science and Technology, Sudip worked continuously on strengthening his technical skills through practical projects, assignments, certifications, and online learning programs. His participation in the DevOps Micro Internship helped him gain a better understanding of networking, Git, GitHub, Linux, automation, deployment, and other important DevOps concepts.
+
+Over time, his GitHub profile developed from simple learning exercises into a record of practical work, projects, documentation, and technical experiments. He also began publishing articles about what he learned, turning his learning journey into something that could be useful to other beginners entering the technology field.
+
+Sudip also understood that technical skills alone were not enough for long-term success. Through academic projects and professional experiences, he developed stronger communication, teamwork, problem-solving, and leadership skills. He learned to take responsibility for his work, communicate clearly with teammates, accept feedback, and remain dependable when facing challenges.
+
+Beyond his own career development, Sudip became interested in helping other beginners understand technical concepts in a simple way. Through online platforms, GitHub, and professional communities, he shared his learning experiences and encouraged others to keep improving instead of being discouraged by their early difficulties.
+
+His certifications, technical projects, GitHub contributions, and practical learning complemented his academic background. However, the qualities that became most important in his professional journey were consistency, honesty, empathy, and the willingness to learn from mistakes.
+
+Looking back, the challenges he faced during his journey became important learning experiences. Instead of allowing setbacks to define him, Sudip used them as opportunities to reflect, improve his decisions, and become more confident. Those experiences also shaped his understanding of leadership and taught him the importance of clear communication, respect, and treating people with empathy.
+
+Today, Sudip’s journey represents a simple but meaningful lesson: success is rarely created by one opportunity or one achievement. It is built through small efforts repeated over time — learning a new skill, completing a project, improving a GitHub portfolio, earning a certification, accepting feedback, helping others, and continuing forward even when progress feels slow.
+
+His story is ultimately about consistency. The person who started by learning the basics gradually became someone capable of building, contributing, collaborating, and taking responsibility in the technology industry. His journey showed that with patience, discipline, and a willingness to keep learning, setbacks can become stepping stones toward a stronger future.
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/sudipbhalla.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=self-paced
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+`https://medium.com/@bhallasudip0974/from-setbacks-to-progress-sudip-bhallas-journey-into-technology-and-devops-d2647b20a62a`
 
 ---
 
@@ -191,7 +220,8 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+There have been situations where things did not turn out the way I had expected, and I found myself reconsidering the choices I had made. Instead of simply blaming the circumstances, I took time to look at my own actions. I asked myself whether clearer communication, earlier questions, or a different approach could have led to a better result. These experiences taught me to reflect honestly and use each outcome as an opportunity to improve my future decisions.
+
 
 ---
 
@@ -217,16 +247,26 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. The Power of Focus for Women - Fran Hewitt & Les Hewitt
+![Assignment 5 Screenshot](screenshots/the-power-of-focus.jpg)
+2. The Phoenix Project — Gene Kim, Kevin Behr & George Spafford
+![Assignment 5 Screenshot](screenshots/the-phoenix-project.png)
+3. The Five Dysfunctions of a Team — Patrick Lencioni
+![Assignment 5 Screenshot](screenshots/the-five-dysfunctions-of-a-team.jpg)
+4. Deep Work — Cal Newport
+![Assignment 5 Screenshot](screenshots/deep-wrok.jpg)
+5. The Lean Startup — Eric Ries
+![Assignment 5 Screenshot](screenshots/the-lean-startup.jpg)
+6. Clean Code — Robert C. Martin
+![Assignment 5 Screenshot](screenshots/clean-code.jpg)
+7. The Psychology of Money — Morgan Housel
+![Assignment 5 Screenshot](screenshots/psy-of-money.jpg)
+8. Crucial Conversations — Kerry Patterson, Joseph Grenny, Ron McMillan & Al Switzler
+![Assignment 5 Screenshot](screenshots/crucial-conversations.png)
+9. The 7 Habits of Highly Effective People — Stephen R. Covey
+![Assignment 5 Screenshot](screenshots/The-7-habits-of-highly-effective-people.jpg)
+10. Secret the Power - Rhonda Byrne
+![Assignment 5 Screenshot](screenshots/The-Power-The-Secret.jpg)
 
 ---
 
@@ -255,16 +295,14 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learn a skill and polish it with practice.
+* Projects completed and documented
+* Personal skill development (communication skills , knowledge base)
+* Coursework progress and assignment completion
+* Sleep quality and hours of rest
+* Physical and emotional well-being (exercise, prayer, reflection, and stress management)
+* Play some outdoor games or online games for stress relif.
+
 
 ---
 
@@ -290,7 +328,8 @@ Examples:
 
 Answer:
 
-Add your answer here...
+I wrote down everything that was on my mind, from college work and DevOps internship tasks to job applications, portfolio updates, GitHub projects, certifications, financial matters, family responsibilities, prayers, unanswered messages, content ideas, career plans, and personal growth. Putting all of these thoughts on paper helped me clear my head and see my priorities more clearly. Instead of trying to keep track of everything mentally, I could focus on the things that were actually important and needed my attention.
+
 
 ---
 
@@ -308,7 +347,52 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+### Weekly Learning and Career Routine
+
+**Monday–Thursday: 2 Hours of Focused Technical Work**
+**7:00–9:00 PM**
+
+During these four days, I will concentrate on one main technical area at a time, such as **Android Development**.
+
+My approach will be simple:
+
+**Learn → Build → Review → Move Forward**
+
+I will first use tutorials or learning resources to understand the concept, then apply what I learned by building something based on my planned design. After completing each part, I will review my work, identify areas that need improvement, and then move on to the next topic or feature. The main focus will be practical learning rather than only watching tutorials.
+
+**Saturday: 30–45 Minutes for Job Preparation**
+**2:00–3:45 PM**
+
+Saturday will be dedicated to improving my job-readiness. I will rotate between:
+
+* Aptitude practice
+* Verbal communication
+* Reading books aloud
+
+The purpose is not just to prepare for interviews, but to become better at expressing technical ideas clearly and confidently. I want to be able to communicate my engineering knowledge, not just understand it myself.
+
+**Sunday: 1.5–2 Hours — DMI and Project Work**
+**Preferably afternoon/evening**
+
+I will divide this time between DMI learning and practical project work:
+
+* **1 hour:** Complete DMI learning and assignments
+* **30–60 minutes:** Apply the concepts to my own project
+
+I will treat DMI as more than just a certification requirement. After every session, I will try to take at least one useful concept and apply it to something I am actually building.
+
+**Sunday: 6:00–8:00 PM — Professional Community Work**
+
+I will use this time to maintain my professional presence by:
+
+* Publishing LinkedIn posts
+* Updating my GitHub portfolio
+* Documenting projects and learning progress
+
+**Sunday: 30-Minute Weekly Review**
+
+At the end of each week, I will spend around 30 minutes reviewing what I completed, what I learned, what went wrong, and what needs more attention in the coming week. This will help me stay organized and make small improvements to my routine instead of repeating the same mistakes.
+
 
 ---
 
@@ -316,11 +400,13 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Tuesday, Thursday, Saturday, and Sunday evenings (6:00 PM – 8:00 PM)
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+One live session and 4 focused sessions per week
+
+
 
 ---
 
@@ -334,7 +420,14 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Keep my phone on Do Not Disturb during deep work sessions.
+Check WhatsApp and social media only during scheduled breaks.
+Avoid comparing my career journey with other people's progress.
+Work from a clean and organized study environment.
+Focus on completing one task before starting another.
+Review my priorities every morning instead of reacting to distractions.
+Protect my peace by limiting activities that trigger unnecessary self-doubt.
+
 
 ---
 
@@ -342,28 +435,41 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I have come to understand that my biggest challenge is not whether I am capable, but how I respond when things do not go as planned. Disappointment and uncertainty can easily take away my focus if I allow them to. However, difficult experiences have helped me grow and taught me that staying consistent, keeping faith, and taking action every day are more important than waiting for everything to be perfect. I believe my future will depend on the habits and systems I create, not on the setbacks I have faced.
+
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I have noticed that I sometimes imagine the final result before I even begin the actual work, and when things do not turn out the way I expected, I end up feeling disappointed. Another weakness I have identified is that I can spend too much time planning instead of taking action. I may create a detailed plan, but the difficult part is actually starting and consistently following through. I am learning that good planning only matters when I turn those plans into real action.
+
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Not just thinking, executing the plans.
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
+Week 1 of DMI — What I Learned About Myself
+This week was not just about learning DevOps. It was also about understanding myself better.
+One important thing I realized is that I sometimes spend too much time making plans, looking for better tools, or finding new ways to learn. But planning alone does not create progress.
+I also noticed that I get excited about new ideas and sometimes try to do too many things at once. I can make a good plan, but following it every day is the real challenge.
+My biggest learning this week was simple:
+Thinking about getting better is not enough. I have to actually do the work.
+I am also committing some time to DMI every day and focusing more on building instead of only watching tutorials.
+This is just Week 1, but I believe small and consistent actions can create big changes over time.
+Less planning. More doing. 
 
+hashtag#DMIByPravinMishra hashtag#AgenticAI hashtag#DevOps hashtag#Learning hashtag#GrowthMindset hashtag#Consistency
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://lnkd.in/dP2uwVNa · Start your DevOps journey: https://lnkd.in/dkqb39_A
 `Add your URL here`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: https://www.linkedin.com/feed/update/urn:li:activity:7505682020019339264/ 
+- Blog / Medium : https://medium.com/@bhallasudip0974/from-setbacks-to-progress-sudip-bhallas-journey-into-technology-and-devops-d2647b20a62a
 
 ---
 
