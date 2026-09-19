@@ -160,27 +160,28 @@ Hashtags:
 
 ## Your Article
 
-### From Setbacks to Progress: Sudip Bhalla’s Journey into Technology and DevOps
+**What Does My 2.0 Version Look Like?**
 
-Four years ago, Sudip Bhalla made a decision that gradually changed the direction of his career. Instead of allowing challenges and setbacks to discourage him, he chose to focus on learning, discipline, and making consistent progress. That mindset became one of the strongest foundations of his professional journey.
+Four years ago, I made a decision that slowly changed the direction of my career. Instead of letting challenges and setbacks stop me, I decided to focus on learning, discipline, and consistent progress. Looking back, that mindset has become one of the most important parts of my journey.
 
-Today, Sudip is recognized as a Software Engineer and DevOps professional who combines technical knowledge with problem-solving, teamwork, and a continuous learning mindset. His journey from being a computer science student to building practical experience in software development and DevOps reflects his commitment to improving himself step by step.
+Today, I am working toward becoming a Software Engineer and DevOps professional. My journey from being a Computer Science and Technology student to gaining practical experience in software development and DevOps has been a step-by-step process.
 
-His career was not built through shortcuts. While completing his B.Tech in Computer Science and Technology, Sudip worked continuously on strengthening his technical skills through practical projects, assignments, certifications, and online learning programs. His participation in the DevOps Micro Internship helped him gain a better understanding of networking, Git, GitHub, Linux, automation, deployment, and other important DevOps concepts.
+While completing my B.Tech, I focused on improving my technical skills through projects, assignments, certifications, and online learning. My experience with the DevOps Micro Internship helped me understand important concepts such as networking, Git, GitHub, Linux, automation, and deployment.
 
-Over time, his GitHub profile developed from simple learning exercises into a record of practical work, projects, documentation, and technical experiments. He also began publishing articles about what he learned, turning his learning journey into something that could be useful to other beginners entering the technology field.
+I also started using GitHub not just for storing code, but as a record of my learning, projects, documentation, and experiments. Writing about what I learned helped me understand concepts better and also gave me an opportunity to share my experiences with other beginners.
 
-Sudip also understood that technical skills alone were not enough for long-term success. Through academic projects and professional experiences, he developed stronger communication, teamwork, problem-solving, and leadership skills. He learned to take responsibility for his work, communicate clearly with teammates, accept feedback, and remain dependable when facing challenges.
+Along the way, I realized that technical skills are only one part of professional growth. Communication, teamwork, problem-solving, leadership, and the ability to accept feedback are equally important. Every project and challenge taught me something new about taking responsibility and working with others.
 
-Beyond his own career development, Sudip became interested in helping other beginners understand technical concepts in a simple way. Through online platforms, GitHub, and professional communities, he shared his learning experiences and encouraged others to keep improving instead of being discouraged by their early difficulties.
+I also became interested in helping beginners understand technical topics in a simple way. Sharing my learning journey has become another way for me to grow.
 
-His certifications, technical projects, GitHub contributions, and practical learning complemented his academic background. However, the qualities that became most important in his professional journey were consistency, honesty, empathy, and the willingness to learn from mistakes.
+My journey has not been perfect, and there have been setbacks. But each challenge taught me to reflect, improve, and keep moving forward.
 
-Looking back, the challenges he faced during his journey became important learning experiences. Instead of allowing setbacks to define him, Sudip used them as opportunities to reflect, improve his decisions, and become more confident. Those experiences also shaped his understanding of leadership and taught him the importance of clear communication, respect, and treating people with empathy.
+My 2.0 version is not about becoming perfect. It is about becoming better than who I was yesterday.
 
-Today, Sudip’s journey represents a simple but meaningful lesson: success is rarely created by one opportunity or one achievement. It is built through small efforts repeated over time — learning a new skill, completing a project, improving a GitHub portfolio, earning a certification, accepting feedback, helping others, and continuing forward even when progress feels slow.
+For me, success is built through small efforts repeated consistently — learning a skill, completing a project, improving my GitHub, accepting feedback, helping others, and continuing even when progress feels slow.
 
-His story is ultimately about consistency. The person who started by learning the basics gradually became someone capable of building, contributing, collaborating, and taking responsibility in the technology industry. His journey showed that with patience, discipline, and a willingness to keep learning, setbacks can become stepping stones toward a stronger future.
+**The journey is still going on, and I am still learning.**
+
 
 P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/sudipbhalla.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=self-paced
 
@@ -188,7 +189,7 @@ P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engin
 
 Paste your link here:
 
-`https://medium.com/@bhallasudip0974/from-setbacks-to-progress-sudip-bhallas-journey-into-technology-and-devops-d2647b20a62a`
+`https://www.linkedin.com/posts/sudip-bhalla-40521b380_dmi-devops-micro-internship-with-agentic-activity-7505682020019339264-DCYA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF4BNYUBkAldpXsIN4TAqTkoryo8S05tUFQ`
 
 ---
 
@@ -448,28 +449,16 @@ I have noticed that I sometimes imagine the final result before I even begin the
 Not just thinking, executing the plans.
 
 ### LinkedIn Post
+Paste your LinkedIn post link here.
 
-Week 1 of DMI — What I Learned About Myself
-This week was not just about learning DevOps. It was also about understanding myself better.
-One important thing I realized is that I sometimes spend too much time making plans, looking for better tools, or finding new ways to learn. But planning alone does not create progress.
-I also noticed that I get excited about new ideas and sometimes try to do too many things at once. I can make a good plan, but following it every day is the real challenge.
-My biggest learning this week was simple:
-Thinking about getting better is not enough. I have to actually do the work.
-I am also committing some time to DMI every day and focusing more on building instead of only watching tutorials.
-This is just Week 1, but I believe small and consistent actions can create big changes over time.
-Less planning. More doing. 
-
-hashtag#DMIByPravinMishra hashtag#AgenticAI hashtag#DevOps hashtag#Learning hashtag#GrowthMindset hashtag#Consistency
-
-P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://lnkd.in/dP2uwVNa · Start your DevOps journey: https://lnkd.in/dkqb39_A
-`Add your URL here`
+`https://www.linkedin.com/posts/sudip-bhalla-40521b380_dmi-devops-micro-internship-with-agentic-activity-7507092836035751937-49qA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF4BNYUBkAldpXsIN4TAqTkoryo8S05tUFQ`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: https://www.linkedin.com/feed/update/urn:li:activity:7505682020019339264/ 
-- Blog / Medium : https://medium.com/@bhallasudip0974/from-setbacks-to-progress-sudip-bhallas-journey-into-technology-and-devops-d2647b20a62a
+- LinkedIn Post URL:https://lnkd.in/p/dPvm9_W6
+- Blog / Medium : https://medium.com/@bhallasudip0974/my-biggest-problem-isnt-planning-it-s-execution-10182095b24e
 
 ---
 
